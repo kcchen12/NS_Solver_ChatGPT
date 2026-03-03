@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outputs / snapshots
+out/
+*.npz
+
+# OS/editor
+.vscode/
+.DS_Store
